@@ -1,0 +1,26 @@
+.foto{
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    background-color: rgb(160, 158, 158);
+    display: flex;
+    justify-content: center;
+    color: rgb(55, 62, 117);
+}
+.foto2{
+    background-color: rgb(160, 158, 158);
+    color: rgb(55, 62, 117);
+}
+p{
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: medium;
+}
+.footer{
+    background-color: rgb(47, 49, 148);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
